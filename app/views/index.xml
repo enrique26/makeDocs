@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<Label id="tituloC"></Label>
+		<Button id="escribirReg"></Button>
+		<Button id="verRegistro"></Button>
+		<TextArea id="registro"></TextArea>
+		<Button id="galeria"></Button>
+		<ImageView id="win"></ImageView>
+	</Window>
+</Alloy>

@@ -1,0 +1,48 @@
+".container": {
+	backgroundColor:"white",
+}
+
+"#tituloC": {
+	text:'crear un nuevo directorio',
+	color: "#000",
+	top:30
+}
+
+"#registro":{
+	top:100,
+	height:200,
+	width:250,
+	borderWidth:3,
+	borderColor:'red'
+	
+	
+}
+
+"#escribirReg":{
+	bottom:70,
+	title:'Generar Registro',
+	color:'black',
+	width:120,
+	height:25,
+	borderRadius:3,
+	borderWidth:2
+}
+"#verRegistro":{
+	bottom:30,
+	title:'ver registro',
+	color:'black',
+	width:120,
+	height:25,
+	borderRadius:3,
+	borderWidth:2
+}
+
+"#galeria":{
+	bottom:100,
+	title:'Galeria',
+	color:'black',
+	width:120,
+	height:25,
+	borderRadius:3,
+	borderWidth:2
+}
